@@ -1,0 +1,1 @@
+A lightweight Python utility designed to retrieve service banners from specific IP addresses and ports. This tool is useful for basic network reconnaissance and identifying services running on a target.
